@@ -167,7 +167,7 @@ df.isnull().sum().sort_values(ascending=False)
 
 ## 📊 Dashboard
 
-![City Traffic Accident Dashboard](reports/Dashboard_Screenshot.png)
+![City Traffic Accident Dashboard]
 
 ### Dashboard Pages / Sections
 
