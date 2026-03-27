@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_excel(r"E:\City Traffic DA2\Project_dataset_city_traffic_accident.xlsx")
+df = pd.read_excel(r"city_traffic_accident.xlsx")
 
 
 df.head(5)
@@ -564,7 +564,7 @@ print(top_data['cause'].value_counts().head())
 
 df.shape
 
-df.to_excel("E:\City Traffic DA2\Project_dataset_cleaned_data_city_traffic_accident.xlsx",index=False)
+df.to_excel("Project_dataset_cleaned_data_city_traffic_accident.xlsx",index=False)
 
 
 df.columns
