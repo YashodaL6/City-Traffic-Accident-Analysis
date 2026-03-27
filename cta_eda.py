@@ -792,7 +792,7 @@ from sqlalchemy import create_engine
 # MySQL connection
 
 username = "root"
-password = "Yashri11"
+password = "YOUR PASSWORD"
 host = "localhost"
 port = "3306"
 database = "city_traffic_db"
